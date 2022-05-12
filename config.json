@@ -1,0 +1,6 @@
+{
+  "regulator_file": "Affectiva_AFFDEX_ET_Affectiva_AffectivaCameraDevice_Couple_25_Meeting_Target.csv",
+  "target_file": "Affectiva_AFFDEX_ET_Affectiva_AffectivaCameraDevice_Couple_25_Meeting_Regulator.csv",
+  "score_threshold": 50,
+  "score_column": "Smile"
+}
